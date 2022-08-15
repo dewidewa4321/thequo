@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = "https://dev-thequotes212.pantheonsite.io/:splat"
+  to = "https://dev-thequotes.pantheonsite.io/:splat"
   status = 200
   force = true
